@@ -3,7 +3,6 @@ from playsound import playsound
 import random
 from time import sleep
 import secrets
-from os import system
 
 def sound():
 	text = input('Text to Sound.mp3 Converter >')
